@@ -8,3 +8,5 @@ Gameplay: <br/>
 Players and enemies are split into 2 4x4 grids, you may move one tile per turn using the move button and clicking an adjacent tile <br/>
 Melee attack accuracy is affected by horizontal distance, empty tiles between front most player and enemy are ignored <br/>
 Some terrain, such as pits, cannot be moved into, while some terrain, such as bushes, provide a bonus to dodging <br/>
+
+Game currently does not have an exit button outside of the main menu, Alt+f4 can be used instead to close the game
